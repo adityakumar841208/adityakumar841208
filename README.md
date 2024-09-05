@@ -26,7 +26,7 @@ I'm a passionate **Full Stack Developer** specializing in web development. Curre
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/adityakumar841208)
-- [LinkedIn](https://linkedin.com/in/adityakumar246)
+- [LinkedIn](www.linkedin.com/in/aditya246)
 
 ---
 
