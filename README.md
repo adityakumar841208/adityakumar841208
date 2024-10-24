@@ -6,7 +6,7 @@ I'm a passionate **Full Stack Developer** specializing in web development. Curre
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Real-Time Multiplayer Chess Game**
+- 🔭 I’m currently working on: **CodeLabs - the E-learning platfrom**
 - 🌱 I’m always learning: New technologies in **web development** and improving my **full stack** skills
 - 🎯 My goal: To build robust, scalable, and user-friendly web applications
 - 🎬 Hobbies: Watching movies and discovering new genres
