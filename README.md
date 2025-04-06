@@ -87,8 +87,6 @@
 ### 🎖 Achievements
 
 - 🥇 Best Performer at **Digicoders Summer Training**
-- 🏆 1st Rank in CSS, C, and JS quizzes
-- 📚 Top learner at internal dev meetups
 
 ---
 
