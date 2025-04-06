@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently building **CodeLabs**, a full-stack E-learning platform for coders.
 - ♟️ Creator of **Multiplayer Chess Game** (Real-time using WebSockets & TypeScript)
-- 📱 Also working on a **mobile-first restaurant management system**.
 - 🧑‍💼 Completed **45 days summer training at Digicoders** – Best Performer.
 - 🌱 Learning DevOps, Redis, and Cloud Computing via **GitHub Student Pack & AWS**.
 - 💡 Exploring AI/ML and media management tools for future projects.
@@ -54,8 +53,7 @@
 |--------|-------------|
 | **CodeLabs** | A full-stack platform offering courses, community, quizzes & AI chat support for coders. |
 | **ChessWar** | A real-time multiplayer chess game hosted at [chesswar.netlify.app](https://chesswar.netlify.app) using Express, WebSockets & TypeScript. |
-| **Restaurant Web App** | Built for local businesses to help manage orders and deliveries with messaging notifications. |
-| **Online Tourism Portal** | Built with ASP.NET MVC during summer training – project titled *Online City Representation for Tourism*. |
+| **Needify** | Connect with local pros instantly. From repairs to tutoring, find trusted services near you, fast and easy.. |
 
 ---
 
